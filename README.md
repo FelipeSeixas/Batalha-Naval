@@ -1,2 +1,11 @@
-# Batalha-Naval
-Projeto para conclusão das disciplinas de introdução e práticas de programação em C
+# include<stdio.h>
+int main(void)
+{
+
+
+
+
+
+return 0;
+
+}
